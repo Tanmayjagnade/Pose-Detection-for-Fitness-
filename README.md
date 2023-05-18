@@ -1,4 +1,4 @@
-# Real Time Exercise Estimation using  Web cam 💪🏋‍♀️
+# Real Time Exercise Detection using  Web cam 💪🏋‍♀️
 
 Moto :✍️
 
