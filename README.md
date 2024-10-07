@@ -42,7 +42,7 @@ Separate counts will be recoreded for left and right bicep curls. Press 'r' key 
 
 python demo.py
 
-## Dscription & Working:
+## Description & Working:
 
 In this project, we designed project with webcam footage to accurately detect exercises in real time and counts reps. OpenCV is used to access the webcam on system, a mediapipe is used to detect body landmarks TensorFlow/Keras to recognize what exercise is being performed. The detail information for dependencies are provided in requirements.text folder.
 
