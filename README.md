@@ -5,7 +5,7 @@
 The main objective of this project is to design and implement a Convolutional Neural Network (CNN) along with pretrained (MediaPipe) models capable of detecting a person's posture and repetitions accurately
 Created a user-friendly interface with real-time feedback on posture correctness using Python, OpenCV, MediaPipe, and TensorFlow/Keras.
 
-##Components*
+## Components*
 
 - *Webcam Integration*: Utilizes OpenCV for real-time video capture.
 - *Exercise Detection*: Implements deep learning models using TensorFlow/Keras.
@@ -13,14 +13,14 @@ Created a user-friendly interface with real-time feedback on posture correctness
 - *User Interface*: Built using Python for easy navigation.
 
 
-*Usage*
+ ### *Usage*
 
 1. Run the application.
 2. Perform bicep curls in front of the webcam.
 3. Receive real-time feedback on posture correctness.
 4. View exercise tracking and counting on the interface.
 
-*Dependencies*
+### *Dependencies*
 
 - Python
 - OpenCV
@@ -28,7 +28,7 @@ Created a user-friendly interface with real-time feedback on posture correctness
 - TensorFlow/Keras
 
 
-*How to Use*
+### *How to Use*
 
 1. Clone the repository.
 2. Install required dependencies using pip install -r requirements.txt.
@@ -58,4 +58,4 @@ Mediapipe Pose Classification(Google's Github)
 
 (AI Pose Estimation with Python and MediaPipe)
 
-Thanks for Reading Readme & github page.
+- Thanks for Reading Readme & github page.
