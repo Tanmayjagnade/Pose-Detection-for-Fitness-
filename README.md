@@ -5,7 +5,7 @@
 The main objective of this project is to design and implement a Convolutional Neural Network (CNN) along with pretrained (MediaPipe) models capable of detecting a person's posture and repetitions accurately
 Created a user-friendly interface with real-time feedback on posture correctness using Python, OpenCV, MediaPipe, and TensorFlow/Keras.
 
-## Components*
+## *Components*
 
 - *Webcam Integration*: Utilizes OpenCV for real-time video capture.
 - *Exercise Detection*: Implements deep learning models using TensorFlow/Keras.
